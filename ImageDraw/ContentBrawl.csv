@@ -18,11 +18,16 @@
 0;Вольт;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png
 1;Вольт паладин;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png
 0;Вольт самодельный;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png
-1;Ворон;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;00.png
+0;Ворон;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;00.png
+1;Ворон 2;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
+0;Ворон белый;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+1;Ворон мех;01.png;02.png;03.png;04.png;05.png;06.png
+0;Ворон феникс;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png
 0;Генерал Гавс;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;00.png
 1;Генерал гавс ронин;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png
 0;Генерал гавс шериф;01.jpg;02.jpg;03.jpg;04.jpg;05.jpg;06.jpg;07.jpg;08.jpg;09.jpg;10.jpg;11.jpg
 0;Грифф;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
+1;Грифф значок;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
 0;Гром;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;00.png
 0;Гэйл;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;00.png
 0;Джеки;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
@@ -32,10 +37,16 @@
 0;Дэррил;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
 0;Карл;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png;00.png
 0;Колетт;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
+1;Коллет малифисента;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png
+0;Коллет навигатор;01.png;02.png;03.png;04.png;05.png;06.png;07.png
 0;Кольт;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
 1;Леон;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
 0;Лола;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
 0;Лу;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
+0;Лу бургер;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png
+1;Лу иконка;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
+0;Лу король;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
+1;Лу стильный;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
 0;Макс;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png;00.png
 0;Мистер П;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png;00.png
 1;Мортис;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png;00.png
