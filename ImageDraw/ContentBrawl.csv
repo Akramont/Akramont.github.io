@@ -18,7 +18,7 @@
 0;Вольт;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png
 1;Вольт паладин;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png
 0;Вольт самодельный;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png
-0;Ворон;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;00.png
+1;Ворон;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;00.png
 1;Ворон 2;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
 0;Ворон белый;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
 1;Ворон мех;01.png;02.png;03.png;04.png;05.png;06.png
@@ -41,6 +41,10 @@
 0;Коллет навигатор;01.png;02.png;03.png;04.png;05.png;06.png;07.png
 0;Кольт;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
 1;Леон;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
+1;Леон акула;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
+0;Леон динозавр;01.png;02.png;03.png;04.png;05.png;06.png
+0;Леон оборотень;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+1;Леон утка;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
 0;Лола;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
 0;Лу;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;00.png
 0;Лу бургер;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png
@@ -48,12 +52,27 @@
 0;Лу король;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
 1;Лу стильный;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
 0;Макс;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png;00.png
+0;Макс гермес;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+1;Макс кони;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+0;Макс кристал;01.png;02.png;03.png;04.png;05.png;09.png
 0;Мистер П;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png;00.png
 1;Мортис;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png;00.png
-1;Леон акула;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
-0;Леон динозавр;01.png;02.png;03.png;04.png;05.png;06.png
-0;Леон оборотень;01.png;02.png;03.png;04.png;05.png;06.png;07.png
-1;Леон утка;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
+0;Мортис в цилиндре;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;13.png
+0;Мортис ведьма;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;12.png
+1;Мортис коварный;01.png;02.png;03.png;04.png;05.png;06.png;07.jpg;08.png;12.png
+0;Мортис пляжный;01.png;02.png;03.png;04.png;05.png;06.png;07.png;11.png
+0;Мортис рок;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;13.png
+1;Мэг значок;01.png;02.png;03.png;04.png;07.png
+0;Нани пип;01.png;02.png;03.png;04.png;06.png
+0;Нани ретро;01.png;02.png;03.png;05.png
+1;Нани утка;01.png;02.png;03.png;04.png;06.png
+0;Поко;01.png;02.png;03.png;04.png;05.png;08.png
+0;Поко гитарист;01.png;02.png;03.png;04.png;05.png;07.png
+0;Поко звезда;01.png;02.png;03.png;04.png;05.png;08.png
+0;Поко менестрель;01.png;02.png;03.png;04.png;05.png;06.png;10.png
+1;Поко пират;01.png;02.png;03.png;04.png;05.png;06.png;09.png
+0;Роза коко;01.png;02.png;03.png;04.png;05.png;06.png;07.png;13.png
+1;Роза хеллуин;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png;11.png;12.png;13.png
 0;Скуик иконка;01.jpg;02.jpg;03.jpg;04.jpg;05.jpg;06.jpg;07.jpg;08.jpg;09.jpg
 1;Скуик мяч;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png
 0;Скуик призрак;01.jpg;02.jpg;03.jpg;04.jpg;05.jpg;06.jpg;07.jpg;08.jpg;09.jpg
@@ -61,7 +80,27 @@
 0;Спайк лорд;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
 1;Спайк робо;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
 0;Спайк сакура;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+1;Сэнди значок;01.png;02.png;03.png;04.png;05.png;06.png
+0;Сэнди золотая;01.png;02.png;03.png;04.png;05.png;06.png
+0;Сэнди сонная;01.png;02.png;03.png;04.png;05.png;06.png
+0;Сэнди лампа;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+0;Сэнди сладкоежка;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+0;Тара бедовая;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+0;Тара индиго;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+1;Тара ниндзя;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+1;Френк диджей;01.png;02.png;03.png;04.png;05.png;06.png
+0;Френк новогодний;01.png;02.png;03.png;04.png;05.png
+1;Хлои;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+0;Хлои иконка;01.png;02.png;03.png;04.png;05.png
+0;Шелли;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+0;Шелли америка;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+0;Шелли бандитка;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+1;Шелли ведьма;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+0;Шелли звездная;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+0;Шелли принцесса;01.png;02.png;03.png;04.png;05.png;06.png;07.png
+0;Шелли псг;01.png;02.png;03.png;04.png;05.png;06.png
 1;Эдгар молниеносный;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png;10.png
 1;Эль примо дракон;01.jpg;02.jpg;03.jpg;04.jpg;05.jpg;06.jpg;07.jpg;08.jpg
 0;Эль примо рей;01.jpg;02.jpg;03.jpg;04.jpg;05.jpg;06.jpg;07.jpg;08.jpg;09.jpg
 0;Эль примо универсарио;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png
+1;Эш ниндзютсу;01.png;02.png;03.png;04.png;05.png;06.png;07.png;08.png;09.png
